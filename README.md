@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! I'm Ricardo!
 
-<!--
-**RicardoMSCarvalho/RicardoMSCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓  Bachelor Electronics and Computers Science (2021). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔  Curious and trying to learn something new everyday 
+
+🏎️  Motorsport enthusiast 🏍️
+
+  
+📫 How to reach me:
+
+## Stacks I have already worked it during my academic and professional career:💻
+[![My Skils](https://skillicons.dev/icons?i=js,cs,react,html,css,js,postman,mysql,express,nodejs,mongodb)](https://skillicons.dev)
+
